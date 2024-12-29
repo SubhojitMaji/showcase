@@ -1,0 +1,226 @@
+/*-- scss:defaults --*/
+
+// Font Imports
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&family=Tangerine:wght@400;700&family=Delius&family=Kurale&family=Lora:ital,wght@0,400..700;1,400..700&family=Quicksand:wght@300..700&family=Alegreya&family=Montserrat:wght@900&family=Playfair+Display:wght@400;600;700&display=swap&display=block');
+
+// Base Colors
+$primary: #2c3e50 !default;
+$secondary: #3498db !default;
+$success: #2ecc71 !default;
+$info: #457b9d !default;
+$warning: #f39c12 !default;
+$danger: #e63946 !default;
+$light: #f8f9fa !default;
+$dark: #1a1a1a !default;
+
+// Theme Colors
+$body-bg: #fafffe !default;
+$body-color: #666 !default;
+$link-color: $primary !default;
+$selection-bg: rgba($primary, 0.1) !default;
+
+// Typography
+$font-family-sans-serif: "Delius", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$font-family-serif: "Kurale", Georgia, "Times New Roman", serif !default;
+$font-family-monospace: "JetBrains Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+
+$font-size-base: 1rem !default;
+$font-size-sm: $font-size-base * 0.875 !default;
+$font-size-lg: $font-size-base * 1.25 !default;
+$font-size-xl: $font-size-base * 1.5 !default;
+
+$h1-font-size: $font-size-base * 2.5 !default;
+$h2-font-size: $font-size-base * 2 !default;
+$h3-font-size: $font-size-base * 1.75 !default;
+$h4-font-size: $font-size-base * 1.5 !default;
+$h5-font-size: $font-size-base * 1.25 !default;
+$h6-font-size: $font-size-base !default;
+
+// Spacing
+$spacing-unit: 1rem !default;
+$paragraph-spacing: $spacing-unit !default;
+$sidebar-spacing: $spacing-unit * 0.5 !default;
+
+// Border Radius
+$border-radius: 0.375rem !default;
+$border-radius-sm: 0.25rem !default;
+$border-radius-lg: 0.5rem !default;
+
+// Sidebar
+$sidebar-bg: rgba($body-bg, 0.95) !default;
+$sidebar-fg: $body-color !default;
+$sidebar-hl: $primary !default;
+
+// TOC
+$toc-color: $body-color !default;
+$toc-bg: transparent !default;
+
+// Code
+$code-bg: #f8f9fa !default;
+$code-color: $primary !default;
+
+/*-- scss:rules --*/
+
+// Base Styles
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  
+  ::selection {
+    background: $selection-bg;
+  }
+}
+
+// Typography Enhancements
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-serif;
+  color: $primary;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-feature-settings: "liga" 1;
+}
+
+// Content Container
+.content-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: $spacing-unit;
+  background: linear-gradient(
+    to right,
+    rgba($primary, 0.02) 1px,
+    transparent 1px
+  ),
+  linear-gradient(
+    to bottom,
+    rgba($primary, 0.02) 1px,
+    transparent 1px
+  );
+  background-size: 24px 24px;
+  border-radius: $border-radius;
+  box-shadow: 
+    0 1px 3px rgba(0, 0, 0, 0.12),
+    0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  
+  &:hover {
+    box-shadow: 
+      0 10px 20px rgba(0, 0, 0, 0.19),
+      0 6px 6px rgba(0, 0, 0, 0.23);
+  }
+}
+
+// Sidebar Customization
+.sidebar {
+  background-color: $sidebar-bg;
+  border-right: 1px solid rgba($primary, 0.1);
+  
+  nav[role="doc-toc"] > ul > li > a {
+    font-weight: 600;
+    color: $sidebar-hl;
+  }
+  
+  .sidebar-title {
+    color: $primary;
+    font-family: $font-family-serif;
+    font-weight: 700;
+    padding: $sidebar-spacing;
+    margin-bottom: $sidebar-spacing;
+    border-bottom: 2px solid $primary;
+  }
+}
+
+// TOC Enhancements
+#TOC {
+  padding: $spacing-unit * 0.5;
+  
+  .active {
+    color: $primary;
+    font-weight: 600;
+    border-left: 3px solid $primary;
+    padding-left: $spacing-unit * 0.25;
+  }
+}
+
+// Code Blocks
+pre {
+  background-color: $code-bg;
+  border-radius: $border-radius;
+  padding: $spacing-unit;
+  margin: $spacing-unit 0;
+  border: 1px solid rgba($primary, 0.1);
+  
+  code {
+    color: $code-color;
+    font-family: $font-family-monospace;
+    font-size: 0.9em;
+  }
+}
+
+// Utility Classes
+.icon-line {
+  width: 100%;
+  height: 1.5px;
+  background: $primary;
+  margin: 0.5px auto -0.5px;
+  display: table;
+}
+
+// Dark Mode
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-bg: #{$dark};
+    --body-color: #{$light};
+    --link-color: #{lighten($primary, 15%)};
+    --code-bg: #{darken($code-bg, 90%)};
+  }
+  
+  .sidebar {
+    background-color: rgba($dark, 0.95);
+    border-right-color: rgba($light, 0.1);
+  }
+  
+  pre {
+    border-color: rgba($light, 0.1);
+  }
+}
+
+// Print Styles
+@media print {
+  .content-container {
+    box-shadow: none;
+    background: none;
+  }
+  
+  .sidebar {
+    display: none;
+  }
+  
+  pre {
+    border: 1px solid #ddd;
+    white-space: pre-wrap;
+  }
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+  html {
+    font-size: 95%;
+  }
+  
+  .content-container {
+    padding: $spacing-unit * 0.5;
+  }
+  
+  .sidebar {
+    font-size: 0.9em;
+  }
+}
+
+// Reduced Motion
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

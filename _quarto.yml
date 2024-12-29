@@ -6,7 +6,7 @@ book:
   title: "Embrace the Majesty"
   author: "Subhojit Maji"
   date: "last-modified"
-  favicon: LOGO-3.png
+  favicon: "LOGO-3.png"
   
   sidebar:
     title: |
@@ -42,26 +42,28 @@ book:
 
   chapters:
     - index.qmd
-    - intro.qmd
-    - Pro-BABLE.qmd
-    - ALL-ZEBRA.qmd
-    - PUZZLES.qmd
+    - content/intro.qmd
+    - content/Pro-BABLE.qmd
+    - content/ALL-ZEBRA.qmd
+    - content/PUZZLES.qmd
     - part: "My Hobbies"
       chapters:
-        - Latex.qmd
+        - content/Latex.qmd
     - part: "UDGRP's"
       chapters:
         - text: "UDGRP 2024"
-          file: "UDGRP 2024.qmd"
-    - acheivements.qmd
-    - summary.qmd
-    - references.qmd
+          file: "content/UDGRP 2024.qmd"
+    - content/acheivements.qmd
+    - content/summary.qmd
+    - content/references.qmd
 
 format:
   html:
     theme: 
-      - aklight.scss
-      - styles.scss
+      light: 
+          - styles/aklight.scss
+          - styles/styles.scss
+          - styles/stylesimprov.scss
     fontsize: 1.1em
     linestretch: 1.5
     toc: true

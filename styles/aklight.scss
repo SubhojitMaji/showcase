@@ -51,9 +51,9 @@ $font-size-xl: $font-size-base * 1.5 !default;
 
 // Heading Sizes
 $h1-font-size: $font-size-base * 2.5 !default;
-$h2-font-size: $font-size-base * 1 !default;
-$h3-font-size: $font-size-base * 1 !default;
-$h4-font-size: $font-size-base * 1 !default;
+$h2-font-size: $font-size-base * 1.75 !default;
+$h3-font-size: $font-size-base * 1.5 !default;
+$h4-font-size: $font-size-base * 1.25 !default;
 $h5-font-size: $font-size-base * 1 !default;
 $h6-font-size: $font-size-base !default;
 
@@ -367,4 +367,12 @@ pre, code {
   width: 100%;
   height: 1.5px;
   margin: 0.5px auto -0.5px;
+}
+
+/* -- scss:mixins --*/
+@mixin font-fallback($font-family) {
+  @if not variable-exists($font-family) {
+    @warn "Font family #{$font-family} is not defined";
+    font-family: sans-serif;
+  }
 }
