@@ -4,7 +4,7 @@
     "href": "index.html#welcome",
     "title": "Embrace the Majesty",
     "section": "Welcome! 👋",
-    "text": "Welcome! 👋\nI’m Subhojit Maji, a B.Math undergraduate at Indian Statistical Institute, Bangalore 🎓. I was born into a sweet family in 2005 🍼, in Asansol, India. 🌏\nI’m known for my sense of humor 🤭 and enjoy engaging in fun, lively interactions with people. During my free time, I love diving into the world of coding 👨‍💻—a passion I discovered shortly after my first semester at ISI. From experimenting with algorithms to building small projects, coding feels like both a playground and a puzzle to me.\nMy primary research interest is Probability Theory 📊, where I’m constantly fascinated by the beauty of randomness and structure. That said, my curiosity isn’t limited—I love exploring various mathematical and computational ideas, which keeps my learning journey vibrant and rewarding.\nBeyond academics, I enjoy connecting with like-minded peers, brainstorming innovative ideas, and occasionally indulging in hobbies that make life more colorful! 🎨✨",
+    "text": "Welcome! 👋\nI’m Subhojit Maji, a B.Math undergraduate at Indian Statistical Institute, Bangalore 🎓. I was born into a sweet family in 2005 🍼, in Asansol, India. 🌏\nI’m known for my sense of humor 🤭 and enjoy engaging in fun, lively interactions with people. During my free time, I love diving into the world of coding 👨‍💻—a passion I discovered shortly after my first semester at ISI. From experimenting with algorithms to building small projects, coding feels like both a playground and a puzzle to me.\nMy primary interest is Probability Theory 📊, where I’m constantly fascinated by the beauty of randomness and structure. That said, my curiosity isn’t limited—I love exploring various mathematical and computational ideas, which keeps my learning journey vibrant and rewarding.\nBeyond academics, I enjoy connecting with like-minded peers, brainstorming innovative ideas, and occasionally indulging in hobbies that make life more colorful! 🎨✨",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome! :wave:</span>"
     ]
@@ -47,16 +47,6 @@
     "text": "Semester II\nCurrent coursework in progress",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Academic Portfolio</span>"
-    ]
-  },
-  {
-    "objectID": "content/Pro-BABLE.html",
-    "href": "content/Pro-BABLE.html",
-    "title": "Pro-Bable",
-    "section": "",
-    "text": "Spread of Rumours\n\n\n\n\n\nIn a small town of n people a person passes a titbit of information to another person. A rumour is now launched with each recipient of the information passing it on to a randomly chosen individual. What is the probability that the rumour is told r times \\(\\textit{without}\\)\n\nreturning to the originator,\nbeing repeated to anyone.\n\n\n\n\n\n\n\nGeneralisation\n\n\n\n\n\nRedo the calculations if each person tells the rumour to m randomly selected people .\n\n\n\n\n\n\n\n\n\n\n\n\nIncreasing Seuence of Events\n\n\n\n\n\nSuppose \\(\\set{A_n \\vert n&gt;1}\\) is an increasing sequence of events such that , \\(A_n \\subseteq A_{n+1}\\) for each n . Let A = \\(\\bigcup_{n=i}^\\infty A_n\\) . Show that \\(P(A_n)\\) \\(\\rightarrow P(A)\\) as n \\(\\rightarrow \\infty\\) .\n\n\n\n\n\n\n\n\n\nDice Game\n\n\n\n\n\nIf three dice are thrown. What is the probability that one shows a 6 given that no two show the same face? Repeat for n dice where \\(2 &lt; n &lt; 6\\)\n\n\n\n\n\n\n\n\n\nHow many couples will Survive ?\n\n\n\n\n\nSuppose there are \\(2n\\) individuals who constitute \\(n\\) married couples at a given initial date. We wish to consider the survivors at some given later date. Assume each individual has a probability \\(p\\) of surviving until the later date (and possibly more!), independent of the others. Let \\(s\\) denote the number of survivors at the later date and \\(c\\) denote the number of surviving couples (in which both partners are alive). The problem is to derive an expression for \\(\\mathbb{E}(c \\mid s)\\) and show that it does not depend on \\(p\\). What about \\(\\mathbb{E}(s \\mid c)\\)?",
-    "crumbs": [
-      "Pro-Bable"
     ]
   },
   {
@@ -109,7 +99,7 @@
     "text": "Enumerative Combinatorics",
     "crumbs": [
       "UDGRP's",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UDGRP 2024</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UDGRP 2024</span>"
     ]
   },
   {
@@ -120,7 +110,7 @@
     "text": "Enumerative Combinatorics (By Hrishik Koley)\n\n\n\n\n\nHere, we explored:\n\nGroup Theory (Geometric focus)\nGenerating Functions\nGraph Theory\n\nPlanar Graphs\nPerfect Graphs\nRamsey’s Number and Theorem\n\nLovasz-Local Theorem\nKuratowski’s Theorem (Thanks to Aayushman Mallick & Arkaprovo Das for the presentation!)\nRandom Graphs and Ramsey’s Number (My Presentation 😉)\n\nResources and detailed Overview of the Course",
     "crumbs": [
       "UDGRP's",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UDGRP 2024</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UDGRP 2024</span>"
     ]
   },
   {
@@ -131,7 +121,7 @@
     "text": "Introduction to Dynamical Systems\n\n\n\n\n\n\nIntroduction to Dynamical Systems (By Aritrabha Majumdar)\n\n\n\n\n\n\nThis introductory course covered:\n\n\n\nBasic Linear Algebra\nStability of Ordinary Differential Equations\n\nLinear Systems\nNon-Linear Systems (Local Theory)\n\nPicard’s Method of Successive Approximation\nMaximal Interval of Existence\n\n\nCourse notes: link",
     "crumbs": [
       "UDGRP's",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UDGRP 2024</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UDGRP 2024</span>"
     ]
   },
   {
@@ -142,6 +132,16 @@
     "text": "It is the list of thing done before joining ISI 😄 !!\n\n\n\n\n\n\nQualified JEE Mains in 2024(With 99.57 percentile).\nQualified JEE Advanced.\nQualified WBJEE in 2024(Rank 291).\nQualified for RMO twice(in the years 2020 and 2023).\nParticipated at OPhO(Online Physics Olympiad by Jaan Kalda).\nQualified ISI B.Math Entrance Exam.\nBronze Medalist at DIGO(Conducted by AoPS).\nRecieved the Centre Topper Certificates for NSEP, NSEC and NSEA.\nCBSE Boards Class X - 95% and Class XII - 93% .",
     "crumbs": [
       "My-Journey"
+    ]
+  },
+  {
+    "objectID": "content/LA2.html",
+    "href": "content/LA2.html",
+    "title": "When does a matrix \\(A^\\infty\\) becomes 0?",
+    "section": "",
+    "text": "What does it mean to have some matrix tending to 0 ?\n\nOne thing for sure is that, we can say that \\(det(A)\\leq 1\\) and thus it implies that the \\(\\lambda_i \\forall\\, i\\) has a product less than 1.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>When does a matrix $A^\\infty$ becomes 0?</span>"
     ]
   },
   {
