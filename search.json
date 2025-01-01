@@ -99,7 +99,7 @@
     "text": "Enumerative Combinatorics",
     "crumbs": [
       "UDGRP's",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UDGRP 2024</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UDGRP 2024</span>"
     ]
   },
   {
@@ -110,7 +110,7 @@
     "text": "Enumerative Combinatorics (By Hrishik Koley)\n\n\n\n\n\nHere, we explored:\n\nGroup Theory (Geometric focus)\nGenerating Functions\nGraph Theory\n\nPlanar Graphs\nPerfect Graphs\nRamsey’s Number and Theorem\n\nLovasz-Local Theorem\nKuratowski’s Theorem (Thanks to Aayushman Mallick & Arkaprovo Das for the presentation!)\nRandom Graphs and Ramsey’s Number (My Presentation 😉)\n\nResources and detailed Overview of the Course",
     "crumbs": [
       "UDGRP's",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UDGRP 2024</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UDGRP 2024</span>"
     ]
   },
   {
@@ -121,7 +121,7 @@
     "text": "Introduction to Dynamical Systems\n\n\n\n\n\n\nIntroduction to Dynamical Systems (By Aritrabha Majumdar)\n\n\n\n\n\n\nThis introductory course covered:\n\n\n\nBasic Linear Algebra\nStability of Ordinary Differential Equations\n\nLinear Systems\nNon-Linear Systems (Local Theory)\n\nPicard’s Method of Successive Approximation\nMaximal Interval of Existence\n\n\nCourse notes: link",
     "crumbs": [
       "UDGRP's",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>UDGRP 2024</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>UDGRP 2024</span>"
     ]
   },
   {
@@ -132,16 +132,6 @@
     "text": "It is the list of thing done before joining ISI 😄 !!\n\n\n\n\n\n\nQualified JEE Mains in 2024(With 99.57 percentile).\nQualified JEE Advanced.\nQualified WBJEE in 2024(Rank 291).\nQualified for RMO twice(in the years 2020 and 2023).\nParticipated at OPhO(Online Physics Olympiad by Jaan Kalda).\nQualified ISI B.Math Entrance Exam.\nBronze Medalist at DIGO(Conducted by AoPS).\nRecieved the Centre Topper Certificates for NSEP, NSEC and NSEA.\nCBSE Boards Class X - 95% and Class XII - 93% .",
     "crumbs": [
       "My-Journey"
-    ]
-  },
-  {
-    "objectID": "content/LA2.html",
-    "href": "content/LA2.html",
-    "title": "When does a matrix \\(A^\\infty\\) becomes 0?",
-    "section": "",
-    "text": "What does it mean to have some matrix tending to 0 ?\n\nOne thing for sure is that, we can say that \\(det(A)\\leq 1\\) and thus it implies that the \\(\\lambda_i \\forall\\, i\\) has a product less than 1.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>When does a matrix $A^\\infty$ becomes 0?</span>"
     ]
   },
   {
