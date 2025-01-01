@@ -1,0 +1,12 @@
+---
+title: When does a matrix $A^\infty$ becomes 0?
+subtitle: Was it always 0?
+toc: false
+from: markdown+emoji
+editor: visual
+---
+
+What does it mean to have some matrix tending to 0 ?
+
+>One thing for sure is that, we can say that $det(A)\leq 1$ and thus it implies that the $\lambda_i \forall\, i$ has a product less than 1.
+

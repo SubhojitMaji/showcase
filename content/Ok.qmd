@@ -1,0 +1,100 @@
+---
+title: "Style Showcase"
+---
+
+# Heading 1
+This is an example of a heading 1.
+
+## Heading 2
+This is an example of a heading 2.
+
+### Heading 3
+This is an example of a heading 3.
+
+#### Heading 4
+This is an example of a heading 4.
+
+##### Heading 5
+This is an example of a heading 5.
+
+###### Heading 6
+This is an example of a heading 6.
+
+---
+
+## Typography Enhancements
+This is a paragraph demonstrating the base typography styles. The quick brown fox jumps over the lazy dog.
+
+## Content Container
+<div class="content-container">
+  This is a content container with enhanced layout and subtle grid background.
+</div>
+
+## Sidebar Customization
+<div class="sidebar">
+  <div class="sidebar-title">Sidebar Title</div>
+  <nav class="sidebar-navigation">
+    <ul>
+      <li><a href="#">Link 1</a></li>
+      <li><a href="#">Link 2</a></li>
+      <li><a href="#">Link 3</a></li>
+    </ul>
+  </nav>
+</div>
+
+## TOC Enhancements
+<div id="TOC">
+  <ul>
+    <li class="active"><a href="#">Active TOC Item</a></li>
+    <li><a href="#">TOC Item 2</a></li>
+    <li><a href="#">TOC Item 3</a></li>
+  </ul>
+</div>
+
+## Code Blocks
+```scss
+// Example SCSS code block
+$primary: #2c3e50;
+body {
+  background-color: $primary;
+}
+```
+
+## Highlight Cards
+<div class="highlight-card">
+  <h3>Highlight Card Title</h3>
+  <p>This is a highlight card with enhanced hover state.</p>
+</div>
+
+## Callouts
+<div class="callout note">
+  <p>This is a note callout.</p>
+</div>
+<div class="callout warning">
+  <p>This is a warning callout.</p>
+</div>
+<div class="callout important">
+  <p>This is an important callout.</p>
+</div>
+<div class="callout tip">
+  <p>This is a tip callout.</p>
+</div>
+
+## Footer
+<div class="footer-content">
+  This is the footer content with a subtle border top.
+</div>
+
+## Animations
+<div class="fade-in">This text will fade in.</div>
+<div class="slide-in-left">This text will slide in from the left.</div>
+<div class="slide-in-right">This text will slide in from the right.</div>
+
+## Responsive Design
+<p>Resize the browser window to see responsive design in action.</p>
+
+## Dark Mode
+<p>Switch to dark mode to see the dark mode styles.</p>
+
+## Print Styles
+<p>Print this page to see the print styles.</p>

@@ -224,3 +224,42 @@ pre {
     transition: none !important;
   }
 }
+
+
+// Enhanced Typography
+.content {
+  h1, h2, h3, h4, h5, h6 {
+    &::after {
+      content: '';
+      display: block;
+      width: 100%;
+      max-width: 60px;
+      height: 2px;
+      background: linear-gradient(to right, $primary-color, transparent);
+      margin-top: 0.5rem;
+    }
+  }
+}
+
+// Smooth Scroll Animation
+html {
+  scroll-behavior: smooth;
+  
+  @media (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
+}
+
+// Page Transitions
+.page-transition {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.6s ease forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
