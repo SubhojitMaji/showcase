@@ -1,9 +1,0 @@
----
-format: html+emoji
-subtitle: "Ok! I know you would contradict with me but there is always a probability that *I am God*"
-toc: false
-from: markdown+emoji
-editor: visual
----
-# Probability : A Deep Ocean
-

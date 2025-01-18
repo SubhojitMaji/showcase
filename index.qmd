@@ -11,15 +11,15 @@ about:
  image-width: 12em
  links:
    - icon: linkedin
-     text: "LinkedIn"
+     text: "Connect on LinkedIn"
      href: "https://www.linkedin.com/in/subhojit-maji-7bbb29268"
      target: _blank 
    - icon: github
-     text: "GitHub"
+     text: "Checkout GitHub"
      href: "https://github.com/SubhojitMaji"
      target: _blank
-   - icon: envelope
-     text: "Email"
+   - icon: envelope-paper-heart
+     text: "Email Me"
      href: "mailto:majisubhojit198475@gmail.com"
      target: _blank
 from: markdown+emoji
@@ -32,40 +32,59 @@ editor: visual
 
 I'm **Subhojit Maji**, a B.Math undergraduate at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/) 🎓. I was born into a sweet family in **2005** 🍼, in Asansol, India. 🌏  
 
-I’m known for my sense of humor 🤭 and enjoy engaging in fun, lively interactions with people. During my free time, I love diving into the world of **coding** 👨‍💻—a passion I discovered shortly after my first semester at ISI. From experimenting with algorithms to building small projects, coding feels like both a playground and a puzzle to me.  
+:::{.callout-note appearance="minimal" collapse="true"}
+## Read More....
 
-My primary interest is **Probability Theory** 📊, where I’m constantly fascinated by the beauty of randomness and structure. That said, my curiosity isn't limited—I love exploring various mathematical and computational ideas, which keeps my learning journey vibrant and rewarding.
+I’m known for my sense of humor 🤭 and enjoy engaging in fun, lively interactions with people. During my free time, I love diving into the world of **coding** 👨‍💻—a passion I discovered shortly after my first semester at ISI.
+
+For now, I really like the **Probability Classes** 📊 the most, where I’m constantly fascinated by the beauty of randomness and structure. That said, my curiosity isn't limited—I love exploring various mathematical and computational ideas, which keeps my learning journey vibrant and rewarding.
 
 Beyond academics, I enjoy connecting with like-minded peers, brainstorming innovative ideas, and occasionally indulging in hobbies that make life more colorful! 🎨✨
 
-## Current Endeavors {.section-title}
 
+
+### Current Endeavors !!
+
+:::{.callout-warning appearance="minimal" collapse="false"}
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6 .highlight-card .fade-in}
-### 🏆 LIMIT Design Team
+#### 🏆 LIMIT Design Team
 Merging technical expertise with creative design to craft innovative solutions.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .highlight-card .fade-in}
-### 👥 Cultural Committee Lead
+#### 👥 Cultural Committee Lead
 Fostering community through vibrant events at ISI Bangalore.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .highlight-card .fade-in}
-### 💻 Problem Solving
+#### 💻 Problem Solving
 Tackling complex mathematical challenges and coding puzzles.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .highlight-card .fade-in}
-### 📚 UDGRP 2024
-Exploring Random Graphs and Probabilistic Methods through winter research.
+#### 📚 UDGRP 2024
+Exploring Random Graphs and Probabilistic Methods throughout winter.
+:::
+:::
 :::
 
-:::
+### When should you contact me? :wink: 
 
-:::
+If you ever feel like that you want a new friend :smile: or just want to chat, don't hesitate to reach out. I'm here to chat and connect with you but please keep it **Mathematical** ! :wave:
 
+Also you may buy me coffee sometimes to keep me awake(*Kidding *!!):smiley:
+
+### Some special quotes that changed my life
+
+> "पिताहमस्य जगतो माता धाता पितामहः ।
+>
+> वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च ॥"
+
+It means that the Supreme Personality of God-Head is the father, mother, the grandfather, and the only thing to be known in this world. It is the embodiment of the pur syllable of OM-kara and the Rik, Sama and Yajur of the Vedas.
+:::
+:::
 ::: {.footer-content}
 **Fun Fact**: A logo was necessary. You'd thank me if you saw my face. :alien:
 

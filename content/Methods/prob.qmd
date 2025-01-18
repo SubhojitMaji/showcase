@@ -1,0 +1,14 @@
+---
+format: html+emoji
+subtitle: "Ok! I know you would contradict with me but there is always a probability that *I am God*"
+toc: false
+from: markdown+emoji
+editor: visual
+---
+# Probability : A Necessary Evil
+
+> <div class="callout note">
+  <p>Lame Excuses : I really want to explore this further but due to heavy course works it's a bit tough sometimes.</p>
+</div>
+
+I was doing this UDGRP named "Enumerative Combinatorics" under Hrishik Da where he tried to motivate me about the Probabilistic Overview on Combinatorics. So this section deals all about it :smile:

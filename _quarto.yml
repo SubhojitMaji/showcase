@@ -21,6 +21,9 @@ book:
         href: https://github.com/SubhojitMaji
       - icon: linkedin
         href: https://www.linkedin.com/in/subhojit-maji-7bbb29268
+      - icon: bag-heart-fill
+        href: https://buymeacoffee.com/subhojitmaji
+        target: _blank
   
   search: true
   page-navigation: true
@@ -39,6 +42,9 @@ book:
       - icon: envelope-paper-heart-fill
         href: mailto:majisubhojit198475@gmail.com
         target: _blank
+      - icon: bag-heart
+        href: https://buymeacoffee.com/subhojitmaji
+        target: _blank
 
   chapters:
     - index.qmd
@@ -48,7 +54,7 @@ book:
     - part: "My Hobbies"
       chapters:
         - content/Latex.qmd
-    - part: "UDGRP's"
+    - part: "Projects"
       chapters:
         - text: "UDGRP 2024"
           file: "content/UDGRP 2024.qmd"
@@ -59,10 +65,9 @@ book:
 format:
   html:
     theme: 
-      light: 
-          - styles/aklight.scss
-          - styles/styles.scss
-          - styles/stylesimprov.scss
+     - styles/stylesimprov.scss
+     - styles/aklight.scss
+     - styles/styles.scss
     fontsize: 1.1em
     linestretch: 1.5
     toc: true

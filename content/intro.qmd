@@ -24,7 +24,7 @@ editor: visual
 
 ### Probability I
 - Instructor: [Prof. Mathew Joseph](https://sites.google.com/view/mjoseph/home)
-- Area of special interest and research focus
+- [Assignment Collection](https://www.dropbox.com/scl/fo/82fhg93xrqu7uu2c9zee7/AJAjDMG9mTI_YDe6AzGnzjw?rlkey=n5rox1f2oxt2jyz5v8lkga463&st=482hedgr&dl=0)
 
 ### Elementary Number Theory
 - Instructor: [Prof. Ramdin Mawia](https://sites.google.com/view/ramdinmawia/home)
@@ -39,7 +39,7 @@ editor: visual
 ## Beyond Academics
 
 - **Cultural Committee Representative** : Curated diverse cultural experiences, fostering a global atmosphere on campus.
-- **Design Team Manager for [LIMIT](limitisi.in)** : Honed creative vision and communication skills, led a design team.
+- **Design Team Manager for [LIMIT](https://www.limitisi.in)** : Honed creative vision and communication skills, led a design team.
 - **Active participation in campus life and student activities** : Connected with peers and forged lasting friendships.
 :::
 

@@ -30,6 +30,9 @@ $\href{https://youtu.be/qN-dj94NHNY?si=zgsGB23e6bzrYGQl}{\textbf{Video Solution}
 #### Banach-Contraction Mapping
 Try checking out about Banach's-Contraction Mapping to get a better idea.
 
+
+##### Motivation
+The real use of these results come into action when you are in the feild of applied mathematics like some telecommunication setups where there is a heavy use of Fourier Analysis and you end up with a complication of sine and cosine functions then you can try to approximate the function by these results and say that the initial value of the angle doesn't matter.
 :::
 
 :::
@@ -47,6 +50,9 @@ $\frac{(x_1 + x_2)(x_1 + x_3)x_4}{(x_4 + x_2)(x_4 + x_3)x_1}.$
 
 $\href{https://www.youtube.com/watch?v=o-mX3byaZ5k}{\textbf{Video Solution}}$
 
+
+### Motivation
+These types of questions have no momre motivation than just solving for some dopamine releases they are ment to make you feel happy and confident.
 :::
 :::
 :::{.callout-note collapse="true"}
@@ -70,6 +76,8 @@ The following problem can be rephrased as follows
 
 Then the n-th Bernstein Polynomial is $P_{f,n}(x)$ = $\sum_{k=0}^{n} f\left(\frac{k}{n}\right)B_{n,k}$
 
+#### Motivation
+This is a very interstion problem as this problem can solved in a various number of methods. But I really like the *Probabilistic Overview* on this. 
 :::
 :::
 
@@ -86,7 +94,7 @@ c) $(n+5)^2$ is in $S$ whenever $n$ is in $S.$
 Which positive integers are not in $S?$
 
 It was a very old PUTNAM Problem as far as I could remeber.
-So please do try it before looking at the solution, it is too easy ...
+So please do try it before looking at the solution, it is easy...
 
 :::{.callout-tip collapse="true"}
 ## Text Solution
