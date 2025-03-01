@@ -33,16 +33,6 @@ editor: visual
 I'm **Subhojit Maji**, a B.Math undergraduate at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/) 🎓. I was born into a sweet family in **2005** 🍼, in Asansol, India. 🌏  
 
 :::{.callout-note appearance="minimal" collapse="true"}
-## Read More....
-
-I’m known for my sense of humor 🤭 and enjoy engaging in fun, lively interactions with people. During my free time, I love diving into the world of **coding** 👨‍💻—a passion I discovered shortly after my first semester at ISI.
-
-For now, I really like the **Probability Classes** 📊 the most, where I’m constantly fascinated by the beauty of randomness and structure. That said, my curiosity isn't limited—I love exploring various mathematical and computational ideas, which keeps my learning journey vibrant and rewarding.
-
-Beyond academics, I enjoy connecting with like-minded peers, brainstorming innovative ideas, and occasionally indulging in hobbies that make life more colorful! 🎨✨
-
-
-
 ### Current Endeavors !!
 
 :::{.callout-warning appearance="minimal" collapse="false"}
@@ -74,7 +64,7 @@ Exploring Random Graphs and Probabilistic Methods throughout winter.
 
 If you ever feel like that you want a new friend :smile: or just want to chat, don't hesitate to reach out. I'm here to chat and connect with you but please keep it **Mathematical** ! :wave:
 
-Also you may buy me coffee sometimes to keep me awake(*Kidding *!!):smiley:
+Also you may [**buy me coffee**](https://buymeacoffee.com/subhojitmaji) sometimes to keep me awake(**Kidding **!!):smiley:
 
 ### Some special quotes that changed my life
 
@@ -82,7 +72,7 @@ Also you may buy me coffee sometimes to keep me awake(*Kidding *!!):smiley:
 >
 > वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च ॥"
 
-It means that the Supreme Personality of God-Head is the father, mother, the grandfather, and the only thing to be known in this world. It is the embodiment of the pur syllable of OM-kara and the Rik, Sama and Yajur of the Vedas.
+It means that the Supreme Personality of God-Head is the father, mother, the grand-parents, and the only thing to be known in this world. It is the embodiment of the pur syllable of OM-kara and the Rik, Sama and Yajur of the Vedas.
 :::
 :::
 ::: {.footer-content}
