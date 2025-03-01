@@ -156,8 +156,8 @@ pre {
 
 code {
   font-family: var(--font-mono);
-  font-size: 0.9em;
-  padding: 0.2em 0.4em;
+  font-size: 0.9rem;
+  padding: 0.2rem 0.4rem;
   background: var(--surface-200);
   border-radius: 4px;
 }
@@ -277,8 +277,8 @@ code {
 
 .proof-end {
   display: inline-block;
-  width: 0.5em;
-  height: 0.5em;
+  width: 0.5rem;
+  height: 0.5rem;
   background: var(--proof);
   margin-left: var(--space-2);
 }
@@ -654,8 +654,8 @@ code {
   
   .content-container code {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 0.9em;
-    padding: 0.2em 0.4em;
+    font-size: 0.9rem;
+    padding: 0.2rem 0.4rem;
     background: var(--bg-subtle);
     border-radius: 3px;
   }

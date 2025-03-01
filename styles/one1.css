@@ -1,0 +1,123 @@
+/* Academic Quarto Theme v2.1 - Yeti Compatibility */
+:root {
+    /* Theme Colors - Complementary to Yeti */
+    --primary-500: #2c3e50;      /* Yeti's primary blue */
+    --primary-300: #3498db;      /* Yeti's secondary blue */
+    --accent: #e74c3c;           /* Yeti's red accent */
+    --success: #27ae60;          /* Yeti green */
+    
+    /* Academic Colors */
+    --theorem: var(--success);
+    --proof: #8e44ad;
+    --example: var(--accent);
+    
+    /* Typography */
+    --font-sans: 'Source Sans Pro', system-ui, -apple-system, sans-serif;
+    --font-serif: 'Crimson Pro', Georgia, serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+  
+  /* Core Quarto Elements */
+  body {
+    font-family: var(--font-sans);
+    line-height: 1.7;
+  }
+  
+  /* Headers */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    padding-bottom: 0.3em;
+  }
+  
+  /* Code Blocks */
+  pre.highlight, div.sourceCode {
+    font-family: var(--font-mono);
+    background: #f8f9fa !important;
+    border-radius: 6px;
+    padding: 1.25rem;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  }
+  
+  /* Quarto Callouts */
+  div.callout {
+    font-family: var(--font-sans);
+    border-left-width: 4px;
+    border-radius: 4px;
+    margin: 2rem 0;
+    padding: 1.5rem;
+  }
+  
+  div.callout-note { border-color: var(--primary-300); }
+  div.callout-warning { border-color: var(--accent); }
+  div.callout-important { border-color: var(--success); }
+  
+  /* Theorem Environments */
+  div.theorem, div.proof {
+    padding: 1.5rem;
+    margin: 2rem 0;
+    background: #f8f9fa;
+    border-left: 4px solid var(--theorem);
+    border-radius: 4px;
+  }
+  
+  div.proof {
+    border-color: var(--proof);
+    font-style: italic;
+  }
+  
+  /* Tables */
+  table.table {
+    font-family: var(--font-sans);
+    margin: 2rem 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  /* Mathematical Content */
+  div.math {
+    font-family: var(--font-serif);
+    padding: 1rem;
+    margin: 1.5rem 0;
+    background: #f8f9fa;
+    border-radius: 4px;
+  }
+  
+  /* Grid Enhancements */
+  @media (min-width: 992px) {
+    .grid {
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+  }
+  
+  /* Dark Mode Compatibility */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --primary-500: #ecf0f1;
+      --primary-300: #bdc3c7;
+    }
+    
+    body {
+      background: #2c3e50;
+      color: #ecf0f1;
+    }
+    
+    pre.highlight, div.sourceCode {
+      background: #34495e !important;
+      color: #ecf0f1;
+    }
+  }
+  
+  /* Print Optimization */
+  @media print {
+    body {
+      font-size: 12pt;
+      line-height: 1.5;
+    }
+    
+    div.callout, div.theorem {
+      break-inside: avoid;
+      box-shadow: none;
+    }
+  }
