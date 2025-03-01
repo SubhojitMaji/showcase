@@ -41,6 +41,9 @@ format:
   html:
     theme: yeti
     css: styles/one.css
+    include-in-header:
+      - text: |
+          <script src="scripts/scroll-animations.js"></script>
     toc: false
     number-sections: false
     toc-location: right

@@ -226,15 +226,56 @@ code {
   }
 }
 
-/* Custom Animations */
+
+/* Scroll-triggered animation definitions */
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
-.fade-in {
-  animation: fadeIn var(--transition-normal) ease-in;
+@keyframes fadeOut {
+  from { opacity: 1; transform: translateY(0); }
+  to { opacity: 0; transform: translateY(-20px); }
 }
+
+/* Animation base class */
+.scroll-fade {
+  opacity: 0;
+  transition: opacity var(--transition-normal, 250ms);
+}
+
+/* When element becomes visible */
+.scroll-fade.visible {
+  opacity: 1;
+  animation: fadeIn var(--transition-normal, 250ms) ease-out forwards;
+}
+
+/* When element leaves viewport */
+.scroll-fade.hidden {
+  animation: fadeOut var(--transition-slow, 350ms) ease-in forwards;
+}
+
+/* Apply to existing components from your theme */
+.content-container .scroll-fade,
+.highlight-card.scroll-fade,
+.callout.scroll-fade {
+  opacity: 0;
+}
+
+/* For users with reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .scroll-fade {
+    opacity: 1;
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* Staggered animation for multiple items */
+.grid-auto .scroll-fade:nth-child(1) { animation-delay: 0.1s; }
+.grid-auto .scroll-fade:nth-child(2) { animation-delay: 0.2s; }
+.grid-auto .scroll-fade:nth-child(3) { animation-delay: 0.3s; }
+.grid-auto .scroll-fade:nth-child(4) { animation-delay: 0.4s; }
 
 /* Responsive Design */
 @media screen and (max-width: 768px) {

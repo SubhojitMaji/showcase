@@ -1,16 +1,15 @@
 ---
 format: html
-toc: false
 target: _blank
 from: markdown+emoji
 editor: visual
 ---
 
-:::{.content-container .fade-in}
+:::{.content-container}
 
 # Academic Portfolio {.section-title}
 
-:::{.highlight-card .slide-in-left}
+:::{.highlight-card .math}
 ## Semester I Coursework
 
 ### Real Analysis I
@@ -35,7 +34,7 @@ editor: visual
 - [Course Details](https://www.isibang.ac.in/~adean/infsys/database/Bmath/LAlg1.html)
 :::
 
-:::{.highlight-card .fade-in}
+:::{.highlight-card .success}
 ## Beyond Academics
 
 - **Cultural Committee Representative** : Curated diverse cultural experiences, fostering a global atmosphere on campus.
@@ -43,14 +42,9 @@ editor: visual
 - **Active participation in campus life and student activities** : Connected with peers and forged lasting friendships.
 :::
 
-:::{.highlight-card .slide-in-left}
+:::{.highlight-card .math}
 ## Semester II
 *Current coursework in progress*
 :::
 
-:::
-
-::: {.footer-content}
-Built with ❤️ using [Quarto](https://quarto.org)  
-Last updated: December 2024
 :::
