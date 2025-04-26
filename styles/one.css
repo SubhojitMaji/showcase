@@ -417,6 +417,7 @@ code {
   
   /* Card Content */
   .highlight-card p {
+    overflow-x: auto;
     color: var(--primary-700);
     line-height: 1.7;
     margin-bottom: var(--space-4);
@@ -424,6 +425,7 @@ code {
   
   /* Card Links */
   .highlight-card a {
+    overflow-x: auto;
     color: var(--primary-600);
     text-decoration: none;
     position: relative;
@@ -506,15 +508,18 @@ code {
   /* Responsive Adjustments */
   @media screen and (max-width: 768px) {
     .content-container {
+      overflow-x: auto;
       margin: var(--space-4);
       padding: var(--space-4);
     }
   
     .highlight-card {
+      overflow-x: auto;
       padding: var(--space-4);
     }
   
     .card-grid {
+      overflow-x: auto;
       grid-template-columns: 1fr;
       gap: var(--space-4);
     }

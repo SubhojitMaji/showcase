@@ -40,7 +40,6 @@ book:
 format:
   html:
     theme: yeti
-    css: styles/one.css
     include-in-header:
       - text: |
           <script src="scripts/scroll-animations.js"></script>
@@ -50,6 +49,6 @@ format:
     smooth-scroll: true
     grid:
       sidebar-width: 300px
-      body-width: 900px
+      body-width: 1000px
     code-tools: true
     code-copy: true
