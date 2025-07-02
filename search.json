@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Subhojit’s Academic Journey",
     "section": "",
-    "text": "Welcome! 👋\nI’m Subhojit Maji, a B.Math undergraduate at Indian Statistical Institute, Bangalore 🎓. I was born into a sweet family in 2005 🍼, in Asansol, India. 🌏",
+    "text": "Welcome! 👋\nI’m Subhojit Maji, a B.Math undergraduate at Indian Statistical Institute, Bangalore 🎓.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome! :wave:</span>"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#welcome",
     "title": "Subhojit’s Academic Journey",
     "section": "",
-    "text": "Current Endeavors !!\n\n\n\n\n\n\n\n🏆 LIMIT Design Team\nMerging technical expertise with creative design to craft innovative solutions.\n\n\n👥 Cultural Committee Lead\nFostering community through vibrant events at ISI Bangalore.\n\n\n💻 Problem Solving\nTackling complex mathematical challenges and coding puzzles.\n\n\n📚 UDGRP 2024\nExploring Random Graphs and Probabilistic Methods throughout winter.\n\n\n\nWhen should you contact me? 😉\nIf you ever feel like that you want a new friend 😄 or just want to chat, don’t hesitate to reach out. I’m here to chat and connect with you but please keep it Mathematical ! 👋\nAlso you may buy me coffee sometimes to keep me awake(Kidding !!)😃\n\n\nSome special quotes that changed my life\n\n\nपिताहमस्य जगतो माता धाता पितामहः वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च ॥\n\n\nIt means that the Supreme Personality of God-Head is the father, mother, the grand-parents, and the only thing to be known in this world. It is the embodiment of the pur syllable of OM-kara and the Rik, Sama and Yajur of the Vedas.",
+    "text": "Where do my interest lie?\nI really like to listen to Classic Songs(Retro Music). Though, I would really laugh hard if somebody bared with my voice for 30 sec. I really like to read about various religious thoughts, understand their belief structure. I quoted a Sanskrit text at the end doesn’t make a blind follower of any religion. My views tend to change based on facts but there is something that I felt to be important to every religious belief is that they promote inclusive thoughts in these texts. Yeah!! Thanks for reading this… 😄\n\n\nWhen should you contact me? 😉\nIf you ever feel like that you want a new friend 😄 or just want to chat, don’t hesitate to reach out. I’m here to chat and connect with you but please keep it Mathematical ! 👋\nAlso you may buy me coffee sometimes to keep me awake(Kidding !!)😃\n\n\nSome special quotes that changed my life\n\n\nपिताहमस्य जगतो माता धाता पितामहः वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च ॥\n\n\nIt means that the Supreme Personality of God-Head is the father, mother, the grand-parents, and the only thing to be known in this world. It is the embodiment of the pur syllable of OM-kara and the Rik, Sama and Yajur of the Vedas.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome! :wave:</span>"
     ]
@@ -24,7 +24,17 @@
     "href": "content/intro.html#semester-i-coursework",
     "title": "Academic Portfolio",
     "section": "Semester I Coursework",
-    "text": "Semester I Coursework\n\nReal Analysis I\n\nInstructor: Prof. BV Rajarama Bhatt\nCourse Notes\n\n\n\nFundamentals of Computer Programming\n\nInstructor: Prof. Jishnu Gupta Biswas\nCourse Page\nC Programming Reference\n\n\n\nProbability I\n\nInstructor: Prof. Mathew Joseph\nAssignment Collection\n\n\n\nElementary Number Theory\n\nInstructor: Prof. Ramdin Mawia\nAssignment Collection\n\n\n\nLinear Algebra I\n\nInstructor: Prof. Anita Naolekar\nCourse Details",
+    "text": "Semester I Coursework\n\nReal Analysis I\n\nInstructor: BV Rajarama Bhatt\nCourse Notes\n\n\n\nFundamentals of Computer Programming\n\nInstructor: Jishnu Gupta Biswas\nCourse Page\nC Programming Reference\n\n\n\nProbability I\n\nInstructor: Mathew Joseph\nAssignment Collection\n\n\n\nElementary Number Theory\n\nInstructor: Ramdin Mawia\nAssignment Collection\n\n\n\nLinear Algebra I\n\nInstructor: Anita Naolekar\nCourse Details",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Academic Portfolio</span>"
+    ]
+  },
+  {
+    "objectID": "content/intro.html#semester-ii-coursework",
+    "href": "content/intro.html#semester-ii-coursework",
+    "title": "Academic Portfolio",
+    "section": "Semester II Coursework",
+    "text": "Semester II Coursework\n\nReal Analysis II\n\nInstructor: Jaydeb Sarkar\nCourse Page\n\n\n\nNumerical Computing\n\nInstructor: Jishnu Gupta Biswas\nCourse Page\nNumerical Computing Reference\n\n\n\nProbability II\n\nInstructor: Mathew Joseph\nAssignment Collection\n\n\n\nStatistics I\n\nInstructor: Rituparna Sen\nCourse Page\n\n\n\nLinear Algebra II\n\nInstructor: Anita Naolekar\nCourse Details",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Academic Portfolio</span>"
     ]
@@ -40,21 +50,11 @@
     ]
   },
   {
-    "objectID": "content/intro.html#semester-ii",
-    "href": "content/intro.html#semester-ii",
-    "title": "Academic Portfolio",
-    "section": "Semester II",
-    "text": "Semester II\nCurrent coursework in progress",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Academic Portfolio</span>"
-    ]
-  },
-  {
     "objectID": "content/ALL-ZEBRA.html",
     "href": "content/ALL-ZEBRA.html",
     "title": "ALL-ZEBRAS",
     "section": "",
-    "text": "The Most Common Determinant\n\n\n\n\n\nDetermine the value of the determinant of\n\\[\\begin{vmatrix}\\gcd (1,1)&\\gcd (1,2)&\\cdots &\\gcd (1,n)\\\\\\gcd (2,1)&\\gcd (2,2)&\\cdots &\\gcd (2,n)\\\\\\vdots&\\vdots&\\ddots&\\vdots\\\\\\gcd (n,1)&\\gcd (n,2)&\\cdots &\\gcd (n,n)\\end{vmatrix}\\]\n\n\n\n\n\n\n\n\n\n\n\nSome Eigen Stuffs\n\n\n\n\n\nDistinct Eigen-Values correspond to linearly independent Eigen-Vectors.(Prove it !!)\n\n\n\n\n\n\nNote\n\n\n\n\n\nIf all eigen vectors are linearly independent then the matrix is diagonalizable and the diagonal matrix has \\(\\lambda_1 , \\lambda_2, \\cdots \\lambda_n\\) as diagonal entries.\n\n\n\n\n\n\n\n\n\n\n\n\nSeries is good for Health\n\n\n\n\n\nLet \\(a_n = (\\ln 3)^n \\sum_{k=1}^{n} \\frac{k^2}{k!(n-k)!}\\) . Then the sum of the series \\(a_1 + a_2 + a_3 + ... \\to \\infty\\) , is equal to?\n\n\n\n\n\n\nSolution\n\n\n\n\n\nVideo Solution\n\n\n\n\n\n\n\n\n\n\n\n\nSame-Same Yet Different!!\n\n\n\n\n\nA is a \\(n \\times m\\) matrix and B is a \\(m \\times n\\) matrix . If \\(|I_{n} - AB|\\) is non-singular so is \\(|I_{m} - BA|\\)\n\n\n\n\n\n\n\n\n\nINMO 2024\n\n\n\n\n\nFor each positive integer \\(n \\ge 3\\), define \\(A_n\\) and \\(B_n\\) as \\(A_n = \\sqrt{n^2 + 1} + \\sqrt{n^2 + 3} + \\cdots + \\sqrt{n^2+2n-1}\\) , \\(B_n = \\sqrt{n^2 + 2} + \\sqrt{n^2 + 4} + \\cdots + \\sqrt{n^2 + 2n}.\\) Determine all positive integers \\(n\\ge 3\\) for which \\(\\lfloor A_n \\rfloor = \\lfloor B_n \\rfloor\\).\n\n\n\n\n\n\nNote\n\n\n\n\n\nFor any real number \\(x\\), \\(\\lfloor x\\rfloor\\) denotes the largest integer \\(N\\le x\\).",
+    "text": "The Most Common Determinant\n\n\n\n\n\nDetermine the value of the determinant of\n\\[\\begin{vmatrix}\\gcd (1,1)&\\gcd (1,2)&\\cdots &\\gcd (1,n)\\\\\\gcd (2,1)&\\gcd (2,2)&\\cdots &\\gcd (2,n)\\\\\\vdots&\\vdots&\\ddots&\\vdots\\\\\\gcd (n,1)&\\gcd (n,2)&\\cdots &\\gcd (n,n)\\end{vmatrix}\\]\n\n\n\n\n\n\n\n\n\n\n\nSome Eigen Stuffs\n\n\n\n\n\nDistinct Eigen-Values correspond to linearly independent Eigen-Vectors.(Prove it !!)\n\n\n\n\n\n\nNote\n\n\n\n\n\nIf all eigen vectors are linearly independent then the matrix is diagonalizable and the diagonal matrix has \\(\\lambda_1 , \\lambda_2, \\cdots \\lambda_n\\) as diagonal entries.\n\n\n\n\n\n\n\n\n\n\n\n\nSeries is good for Health\n\n\n\n\n\nLet \\(a_n = (\\ln 3)^n \\sum_{k=1}^{n} \\frac{k^2}{k!(n-k)!}\\) . Then the sum of the series \\(a_1 + a_2 + a_3 + ... \\to \\infty\\) , is equal to?\n\n\n\n\n\n\nSolution\n\n\n\n\n\nVideo Solution\n\n\n\n\n\n\n\n\n\n\n\n\nSame-Same Yet Different!!\n\n\n\n\n\nA is a \\(n \\times m\\) matrix and B is a \\(m \\times n\\) matrix . If \\(|I_{n} - AB|\\) is non-singular so is \\(|I_{m} - BA|\\)\n\n\n\n\n\n\n\n\n\nINMO 2024\n\n\n\n\n\nFor each positive integer \\(n \\ge 3\\), define \\(A_n\\) and \\(B_n\\) as \\(A_n = \\sqrt{n^2 + 1} + \\sqrt{n^2 + 3} + \\cdots + \\sqrt{n^2+2n-1}\\) , \\(B_n = \\sqrt{n^2 + 2} + \\sqrt{n^2 + 4} + \\cdots + \\sqrt{n^2 + 2n}.\\) Determine all positive integers \\(n\\ge 3\\) for which \\(\\lfloor A_n \\rfloor = \\lfloor B_n \\rfloor\\).\n\n\n\n\n\n\nNote\n\n\n\n\n\nFor any real number \\(x\\), \\(\\lfloor x\\rfloor\\) denotes the largest integer \\(N\\le x\\).\n\n\n\n\n\n\n\n\n\n\n\n\nPolynomial and Roots\n\n\n\n\n\nSuppose \\(f(X), g(X)\\) are polynomials with coefficients that can be taken to be complex. Assume that \\(\\text{degree}(f) \\ge \\text{degree}(g) + 2\\). If \\(f\\) has no multiple roots, prove that \\(\\sum_{\\alpha} \\frac{g(\\alpha)}{f'(\\alpha)} = 0\\) where the sum is over the roots of \\(f\\).",
     "crumbs": [
       "ALL-ZEBRAS"
     ]
@@ -118,7 +118,7 @@
     "href": "content/UDGRP 2024.html#introduction-to-dynamical-systems",
     "title": "Winter UDGRP 24",
     "section": "Introduction to Dynamical Systems",
-    "text": "Introduction to Dynamical Systems\n\n\n\n\n\n\nIntroduction to Dynamical Systems (By Aritrabha Majumdar)\n\n\n\n\n\n\nThis introductory course covered:\n\n\n\nBasic Linear Algebra\nStability of Ordinary Differential Equations\n\nLinear Systems\nNon-Linear Systems (Local Theory)\n\nPicard’s Method of Successive Approximation\nMaximal Interval of Existence\n\n\nCourse notes: link",
+    "text": "Introduction to Dynamical Systems\n\n\n\n\n\n\nIntroduction to Dynamical Systems (By Aritrabha Majumdar)\n\n\n\n\n\nThis introductory course covered:\n\nBasic Linear Algebra\nStability of Ordinary Differential Equations\n\nLinear Systems\nNon-Linear Systems (Local Theory)\n\nPicard’s Method of Successive Approximation\nMaximal Interval of Existence\n\nCourse notes: link",
     "crumbs": [
       "Projects/Additional Work",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Winter UDGRP 24</span>"
@@ -129,7 +129,7 @@
     "href": "content/acheivements.html",
     "title": "My-Journey",
     "section": "",
-    "text": "It is the list of thing done before joining ISI 😄 !!\n\n\n\n\n\n\nQualified JEE Mains in 2024(With 99.57 percentile).\nQualified JEE Advanced.\nQualified WBJEE in 2024(Rank 291).\nQualified for RMO twice(in the years 2020 and 2023).\nParticipated at OPhO(Online Physics Olympiad by Jaan Kalda).\nQualified ISI B.Math Entrance Exam.\nBronze Medalist at DIGO(Conducted by AoPS).\nRecieved the Centre Topper Certificates for NSEP, NSEC and NSEA.\nCBSE Boards Class X - 95% and Class XII - 93% .",
+    "text": "It is the list of thing done before joining ISI 😄 !!\n\n\n\n\n\n\nQualified JEE Mains in 2024(With 99.57 percentile).\nQualified JEE Advanced.\nQualified WBJEE in 2024(Rank 291).\nQualified for RMO twice(in the years 2020 and 2023).\nParticipated at Physics Cup(by Jaan Kalda).\nQualified ISI B.Math Entrance Exam.\nBronze Medalist at DIGO(Conducted by AoPS).\nRecieved the Centre Topper Certificates for NSEP, NSEC and NSEA.\nCBSE Boards Class X - 95% and Class XII - 93% .",
     "crumbs": [
       "My-Journey"
     ]
