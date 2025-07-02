@@ -30,34 +30,15 @@ editor: visual
 
 ## Welcome! :wave: {.section-title}
 
-I'm **Subhojit Maji**, a B.Math undergraduate at [**Indian Statistical Institute, Bangalore**](https://www.isibang.ac.in/) 🎓. I was born into a sweet family in **2005** 🍼, in Asansol, India. 🌏 
+I'm **Subhojit Maji**, a B.Math undergraduate at [**Indian Statistical Institute, Bangalore**](https://www.isibang.ac.in/) 🎓.
 
 :::{.callout-note appearance="minimal" collapse="true"}
-### Current Endeavors !!
 
-:::{.grid-auto}
+## 
 
-::: {.highlight-card .fade-in}
-#### 🏆 LIMIT Design Team
-Merging technical expertise with creative design to craft innovative solutions.
-:::
+### Where do my interest lie?
 
-::: {.highlight-card .fade-in}
-#### 👥 Cultural Committee Lead
-Fostering community through vibrant events at ISI Bangalore.
-:::
-
-::: {.highlight-card .fade-in}
-#### 💻 Problem Solving
-Tackling complex mathematical challenges and coding puzzles.
-:::
-
-::: {.highlight-card .fade-in}
-#### 📚 UDGRP 2024
-Exploring Random Graphs and Probabilistic Methods throughout winter.
-:::
-
-:::
+I really like to listen to *Classic Songs(Retro Music)*. Though, I would really laugh hard if somebody bared with my voice for 30 sec. I really like to read about various religious thoughts, understand their belief structure. I quoted a Sanskrit text at the end doesn't make a blind follower of any religion. My views tend to change based on facts but there is something that I felt to be important to every religious belief is that they promote inclusive thoughts in these texts. Yeah!! Thanks for reading this... :smile:
 
 ### When should you contact me? :wink: 
 
@@ -68,11 +49,11 @@ Also you may [**buy me coffee**](https://buymeacoffee.com/subhojitmaji) sometime
 ### Some special quotes that changed my life
 
 <div style="background-color: var(--surface-200); padding: 2em; border-radius: 8px; margin: 2rem 0; font-family: var(--font-serif); font-style: bold; color: var(--primary-800);">
-  <p style="font-size: 1.3rem; line-height: 2; text-align: center;">
+  <p style="font-size: 1.2rem; line-height: 2; text-align: center;">
     <strong>पिताहमस्य जगतो माता धाता पितामहः<br>
     वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च ॥</strong>
   </p>
-  <p style="font-size: 1rem; text-align: center; color: var(--primary-700);">
+  <p style="font-size: 1.1rem; text-align: center; color: var(--primary-700);">
     It means that the Supreme Personality of God-Head is the father, mother, the grand-parents, and the only thing to be known in this world. It is the embodiment of the pur syllable of OM-kara and the Rik, Sama and Yajur of the Vedas.
   </p>
 </div>

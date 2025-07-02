@@ -55,3 +55,12 @@ For any real number $x$, $\lfloor x\rfloor$ denotes the largest integer $N\le x$
 
 :::
 :::
+
+:::{.callout-tip collapse="true"}
+## Polynomial and Roots
+
+Suppose $f(X), g(X)$ are polynomials with coefficients
+that can be taken to be complex. Assume that $\text{degree}(f) \ge \text{degree}(g) + 2$. If
+$f$ has no multiple roots, prove that $\sum_{\alpha} \frac{g(\alpha)}{f'(\alpha)} = 0$ where the
+sum is over the roots of $f$.
+:::

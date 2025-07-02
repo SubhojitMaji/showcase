@@ -47,14 +47,14 @@ Resources and detailed Overview of the [Course](https://hrishik-koley.github.io/
 ::: {.callout-note collapse="true"}
 ## Introduction to Dynamical Systems (By [Aritrabha Majumdar](https://paulpseudoman.github.io/))
 
->This introductory course covered:
+This introductory course covered:
 
->* Basic Linear Algebra
->* Stability of Ordinary Differential Equations
->    * Linear Systems
->    * Non-Linear Systems (Local Theory)
->* Picard's Method of Successive Approximation
->* Maximal Interval of Existence
+* Basic Linear Algebra
+* Stability of Ordinary Differential Equations
+    * Linear Systems
+    * Non-Linear Systems (Local Theory)
+* Picard's Method of Successive Approximation
+* Maximal Interval of Existence
 
 Course notes: [link](https://paulpseudoman.github.io/DSnotes.pdf)
 :::
