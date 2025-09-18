@@ -26,8 +26,6 @@ book:
   chapters:
     - index.qmd
     - content/intro.qmd
-    - content/ALL-ZEBRA.qmd
-    - content/PUZZLES.qmd
     - part: "Creative Pursuits"
       chapters:
         - content/Latex.qmd

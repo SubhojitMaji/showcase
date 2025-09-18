@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Fruktur:ital@0;1&family=Moon+Dance&family=Qwigley&family=Share+Tech+Mono&family=Updock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Brygada+1918:ital,wght@0,400..700;1,400..700&family=Cinzel:wght@400..900&family=Cormorant:ital,wght@0,300..700;1,300..700&family=Fredericka+the+Great&family=Fruktur:ital@0;1&family=Lancelot&family=Marcellus&family=Moon+Dance&family=Mozilla+Headline:wght@200..700&family=Qwigley&family=Share+Tech+Mono&family=Updock&family=Viaoda+Libre&display=swap');
 
 :root {
   /* Theme Colors - Cool Professional */
@@ -44,8 +45,8 @@
   --info: #0369a1;
 
   /* Typography */
-  --font-sans: 'JetBrains Mono', monospace;
-  --font-serif: 'Share Tech Mono', monospace;
+  --font-sans: 'Marcellus', sans;
+  --font-serif: 'Cormorant', 'Times New Roman', serif;
   --font-mono: 'Crimson Pro', Georgia, serif;
   
   /* Spacing */
@@ -180,8 +181,8 @@ code {
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
   :root {
-    --surface-50: #1a202c;
-    --surface-100: #2d3748;
+    --surface-50: #4c6dad;
+    --surface-100: #232323;
     --surface-200: #4a5568;
     --surface-300: #718096;
     --surface-400: #a0aec0;
@@ -204,7 +205,7 @@ code {
 /* Print Styles */
 @media print {
   body {
-    background: white;
+    background: rgb(232, 222, 240);
     color: black;
   }
 
@@ -734,8 +735,8 @@ code {
       --text-secondary: #e2e8f0;
       --text-tertiary: #cbd5e0;
       --text-muted: #a0aec0;
-      --text-accent: #90cdf4;
-      --text-link: #63b3ed;
+      --text-accent: #fac8ff;
+      --text-link: #9298ff;
       
       --theorem-bg: rgba(66, 153, 225, 0.1);
       --proof-bg: rgba(72, 187, 120, 0.1);
