@@ -8,7 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Fruktur:ital@0;1&family=Moon+Dance&family=Qwigley&family=Share+Tech+Mono&family=Updock&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Brygada+1918:ital,wght@0,400..700;1,400..700&family=Cinzel:wght@400..900&family=Cormorant:ital,wght@0,300..700;1,300..700&family=Fredericka+the+Great&family=Fruktur:ital@0;1&family=Lancelot&family=Marcellus&family=Moon+Dance&family=Mozilla+Headline:wght@200..700&family=Qwigley&family=Share+Tech+Mono&family=Updock&family=Viaoda+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Asap:ital,wght@0,100..900;1,100..900&family=Brygada+1918:ital,wght@0,400..700;1,400..700&family=Cinzel:wght@400..900&family=Cormorant:ital,wght@0,300..700;1,300..700&family=Fredericka+the+Great&family=Fruktur:ital@0;1&family=IM+Fell+DW+Pica:ital@0;1&family=Lancelot&family=Marcellus&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Moon+Dance&family=Mozilla+Headline:wght@200..700&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Qwigley&family=Share+Tech+Mono&family=Updock&family=Viaoda+Libre&display=swap');
 
 :root {
   /* Theme Colors - Cool Professional */
@@ -45,8 +45,8 @@
   --info: #0369a1;
 
   /* Typography */
-  --font-sans: 'Marcellus', sans;
-  --font-serif: 'Cormorant', 'Times New Roman', serif;
+  --font-sans: 'Viaoda Libre', sans;
+  --font-serif: 'Asap', serif;
   --font-mono: 'Crimson Pro', Georgia, serif;
   
   /* Spacing */
