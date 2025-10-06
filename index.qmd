@@ -33,28 +33,26 @@ editor: visual
 I'm **Subhojit Maji**, a B.Math undergraduate at [**Indian Statistical Institute, Bangalore**](https://www.isibang.ac.in/) 🎓.
 
 :::{.callout-note appearance="minimal" collapse="true"}
-
-## 
+##
 
 ### Where do my interest lie?
 
-I am an ardent admirer of the complex modal architecture of Raags and their nuanced affective properties, from the therapeutic cadences of Yaman to the devotional dichotomy of the Bhairavs. A reverence starkly belied by my own vocal deficiencies.
+Too early to state my interest in a particular subject. But, yeah I like problems that require a certain depth of thoughts. I also like to read about how macrostates and microstates relate to each other.
 
-A similar analytical proclivity drives my deconstruction of theological frameworks, approached without dogmatic adherence. My own convictions are empirical and mutable, yet this objective lens consistently reveals a unifying tenet across scriptures: magnanimous inclusivity. :smile:
+### What are hobbies?
 
-### When should you contact me? :wink: 
-
-Let discourse reside solely in mathematics—rigor as truth, clarity as beauty, elegance as law. The coffee function endures only as jest. Let the first vector be cast, and the sequence of ideas unfold without bound.
+I prefer reading in solitary and listening to music. I also like to enagge myself in football(Favourite Club - **Mohun Bagan**) and watching movies.
 
 ### Some special quotes that changed my life
 
-<div style="background-color: var(--surface-200); padding: 2em; border-radius: 8px; margin: 2rem 0; font-family: var(--font-serif); font-style: bold; color: var(--primary-800);">
+<div style="background-color: var(--surface-200); padding: 2em; border-radius: 8px; margin: 2rem 0; font-family: var(--font-sans); font-style: bold; color: var(--primary-800);">
   <p style="font-size: 1.2rem; line-height: 2; text-align: center;">
     <strong>पिताहमस्य जगतो माता धाता पितामहः<br>
     वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च ॥</strong>
   </p>
   <p style="font-size: 1.1rem; text-align: center; color: var(--primary-700);">
-    It means that the Supreme Personality of God-Head is the father, mother, the grand-parents, and the only thing to be known in this world. It is the embodiment of the pur syllable of OM-kara and the Rik, Sama and Yajur of the Vedas.
+    The quote says, you only need to only one thing in this universe. It may be absurd and irrelevant at first sight but observe how it actually relates to the present world and its progression. We are actually heading to a world where one might need to only one thing(**unified subject**) to solve all the problems.
+
   </p>
 </div>
 :::

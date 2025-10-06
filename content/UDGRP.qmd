@@ -1,5 +1,5 @@
 ---
-title: "Winter UDGRP 24"
+title: "UDGRP"
 subtitle: "The secret handshake of information, passed down through generations."
 format:
   html:
@@ -14,12 +14,15 @@ format:
     link-external-newwindow: true
 editor: visual
 ---
+::: {.highlight-card .fade-in}
+
+## [UDGRP Projects WINTER 2024]()
 
 :::{.highlight-card .fade-in}
-## Enumerative Combinatorics
+### Enumerative Combinatorics
 
 ::: {.callout-note collapse="true"}
-## Enumerative Combinatorics (By [Hrishik Koley](https://hrishik-koley.github.io))
+### Enumerative Combinatorics (By [Hrishik Koley](https://hrishik-koley.github.io))
 
 
 Here, we explored:
@@ -42,10 +45,10 @@ Resources and detailed Overview of the [Course](https://hrishik-koley.github.io/
 :::
 
 :::{.highlight-card .fade-in}
-## Introduction to Dynamical Systems
+### Introduction to Dynamical Systems
 
 ::: {.callout-note collapse="true"}
-## Introduction to Dynamical Systems (By [Aritrabha Majumdar](https://paulpseudoman.github.io/))
+### Introduction to Dynamical Systems (By [Aritrabha Majumdar](https://paulpseudoman.github.io/))
 
 This introductory course covered:
 
@@ -57,5 +60,6 @@ This introductory course covered:
 * Maximal Interval of Existence
 
 Course notes: [link](https://paulpseudoman.github.io/DSnotes.pdf)
+:::
 :::
 :::

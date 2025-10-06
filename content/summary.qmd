@@ -3,4 +3,4 @@ from: markdown+emoji
 ---
 # Summary {.unnumbered}
 
-`"There is always a probability of winning in life , no matter which stage you are at. Just believe in yourself and make the best choices."`
+"Only the extremes can lead you to modern success. You must be bold enough to take a chance." - **Mark Twain** 

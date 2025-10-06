@@ -31,7 +31,7 @@ book:
         - content/Latex.qmd
     - part: "Projects/Additional Work"
       chapters:
-        - content/UDGRP 2024.qmd
+        - content/UDGRP.qmd
     - content/acheivements.qmd
     - content/summary.qmd
 
