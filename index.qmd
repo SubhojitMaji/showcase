@@ -56,4 +56,8 @@ I prefer reading in solitary and listening to music. I also like to enagge mysel
   </p>
 </div>
 :::
+<!-- Buy Me a Coffee button -->
+<a href="https://www.buymeacoffee.com/subhojitmaji">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Keep me awake&emoji=💡&slug=subhojitmaji&button_colour=090029&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
 :::
